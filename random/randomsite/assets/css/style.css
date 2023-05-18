@@ -251,7 +251,7 @@ section.hero-life a.sign-up-cta {
   }
   /* containers */
   .blue-container {
-    background-color: #4191fa;
+    background-color: #034702;
     width: 90%;
     height: 40vh;
     margin: 10vh auto;
@@ -2333,4 +2333,12 @@ ul.desktop_site_nav_left li ul li a:hover {
 
 footer {
   border-top: 1px solid #d1d0d4
+}
+.strider {
+  height: 90px;
+width: 90px;
+padding-top: 50px;
+padding-left: 50px;
+
+
 }
