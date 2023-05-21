@@ -252,8 +252,8 @@ section.hero-life a.sign-up-cta {
   /* containers */
   .blue-container {
     background-color: #034702;
-    width: 90%;
-    height: 40vh;
+    width: 90%;   
+    height: auto;
     margin: 10vh auto;
     padding: 2em;
     box-sizing: border-box;
@@ -2335,10 +2335,23 @@ footer {
   border-top: 1px solid #d1d0d4
 }
 .strider {
-  height: 90px;
-width: 90px;
+  height: auto;
+width: auto;
 padding-top: 50px;
 padding-left: 50px;
 
 
+}
+.Breencast1 {
+
+  color: #007bff;
+font-size: large;
+font-family: Arial;
+}
+
+.Breencastcaption {
+
+color: #000;
+font-size: medium;
+font-family: Arial;
 }
