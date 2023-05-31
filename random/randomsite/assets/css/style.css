@@ -2345,13 +2345,27 @@ padding-left: 50px;
 .Breencast1 {
 
   color: #007bff;
-font-size: large;
+font-size: xx-large;
 font-family: Arial;
+padding: 23px;
 }
 
 .Breencastcaption {
 
 color: #000;
-font-size: medium;
+font-size: x-large;
+font-family: Arial;
+}
+
+.ReturnHome {
+color:#074768;
+font-size: large;
+font-family: Arial;
+}
+
+.SeeBreencastSpeech {
+padding: 25px;
+color:#33ad48;
+font-size:xx-large;
 font-family: Arial;
 }
